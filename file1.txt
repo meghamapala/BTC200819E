@@ -1,0 +1,5 @@
+we are learning linux command as well as git command too
+
+
+:wq
+
